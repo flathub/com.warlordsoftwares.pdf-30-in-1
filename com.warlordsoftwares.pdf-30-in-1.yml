@@ -133,7 +133,7 @@ modules:
     sources:
       - type: archive
         url: https://warlordsoftwares.com/static/app_builds/flatpak/FLATPAK_PDF-30-IN-1.tar.gz
-        sha256: 24341a43b893b4d81536ea6f62e9c30589482d01739d651bb801a0f1010b85f2
+        sha256: 9a2f9c76d5e15cef69064e93a1c9ba628ed9dc5751452a7aefc78815febb8401
       - type: script
         dest-filename: pdf30in1
         commands:
